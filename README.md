@@ -1,2 +1,3 @@
-# user-school-2020
-OSG User School 2020
+# OSG User School 2020
+
+The source files for the OSG User School 2020 website.
