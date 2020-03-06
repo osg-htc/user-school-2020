@@ -48,6 +48,14 @@ are involved in graduate-level research or coursework; make a strong case for yo
 (post-doctoral students, faculty, researchers, other staff, etc.), especially if you convince us that this opportunity
 is likely to have a significant effect on your work or research, or that of others.
 
+## Spread the Word
+
+Please tell people who may be interested in the School about us.  We will announce the School by email a couple of
+times, but you can send anyone to this website at any time!
+
+Another way to help: [Download our flyer](/files/osg-user-school-2020-flyer.pdf), print copies, and post in prominent
+locations where good candidates might see it!
+
 ## Contact Us
 
 The OSG User School is part of the [OSG Outreach Area](https://opensciencegrid.org/outreach/)&nbsp;&mdash; please visit
