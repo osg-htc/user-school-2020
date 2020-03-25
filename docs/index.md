@@ -20,8 +20,12 @@ associated with the School.
 
 ## Applications
 
-Applications are now open.  **The deadline for applications is Tuesday, 31 March 2020.**
-Submit your application soon to ensure consideration!
+Applications are open now.
+
+<span style="color: #FF6600;"><span style="font-weight: bold;">Due to the COVID-19 pandemic,</span> the application
+deadline has been extended to Friday, April 10.</span> If you are unsure about applying, given all the uncertainties
+lately, go ahead and submit an application!  Even if this year’s School is postponed or canceled, the first choice of
+seats at the next School that is offered will go to applicants selected this year.
 
 To apply, complete both of the steps below (in parallel, if you like):
 
